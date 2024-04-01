@@ -19,9 +19,9 @@ App teste para gerenciar tarefas, desenvolvido em Flutter SDK ***
 
 ## Testar o projeto
 
-- 1: Flutter doctor
-- 2: Flutter pub get
-- 3: Flutter run android/ios
+- 1: flutter doctor
+- 2: flutter pub get
+- 3: flutter run / flutter build apk
 
 Para obter ajuda para começar a desenvolver o Flutter, consulte o
 [documentação online](https://docs.flutter.dev/), que oferece tutoriais,
