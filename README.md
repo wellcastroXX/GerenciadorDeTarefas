@@ -12,10 +12,17 @@ App teste para gerenciar tarefas, desenvolvido em Flutter SDK ***
 
 ## Features
 
-- Sending Emails
-- Authentication and Security
-- Sorting, Pagination, and Filtering
+- Flutter Mobx Slidy - componentizado
+- APIRest GET | POST | PUT | DELETE 
+  [documentação online](https://rapidapi.com/fabriciomf72/api/task-manager-api3);
+- Autenticação de usuário por login via SQLite local e registro de usuários
 - SQLite (como banco de dados local)
+- Lista de tarefas alimentado pela API e gerenciada localmente pelo localstorage por uma
+decisão de modelo de interface e tempo. 
+- Cadastro de tarefa
+- Atualizaçãao de tarefa
+- Exclusão de tarefa
+- UI/UX
 
 ## Testar o projeto
 
